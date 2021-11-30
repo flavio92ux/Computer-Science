@@ -8,3 +8,8 @@ PEOPLE_AT_CONCERT = rectangle(FIELD_LENGTH, FIELD_WIDTH) // PEOPLE_AT_CONCERT_PE
 
 
 print("Estão presentes no show aproximadamente", PEOPLE_AT_CONCERT, "pessoas")
+
+letters = "ola mundo"
+
+for letter in letters:
+    print(letters[letter])
